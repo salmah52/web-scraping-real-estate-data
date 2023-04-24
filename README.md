@@ -10,3 +10,6 @@ Pandas
 Selenium
 Time
 Random
+
+## Visualiastion with PowerBI
+## Link -https://app.powerbi.com/view?r=eyJrIjoiOTdkZWU3OWEtOWRkMy00OTYyLWFlZWEtNjFjNGVlNThjZDg5IiwidCI6ImVhM2E1MTY5LWEwZmUtNDAxOC1hNGVhLTg5Y2QxMTlmYWQ4OCJ9
