@@ -1,11 +1,11 @@
 # Scraping Real Estate Data from Nigeria Property Centre using Selenium
 
 
-#Introduction:
+# Introduction:
 In today's digital age, web scraping has become a valuable tool for extracting data from websites. I will explore how to use Selenium, a powerful web scraping library, to scrape real estate data from Nigeria Property Centre. I will cover the process of setting up Selenium, navigating the website, scraping the desired data, and saving it to a CSV file.
 Web Scrraping is a technique to scrape the data present on the web.
 
-#Prerequisites:
+# Prerequisites:
 Before you begin, make sure you have the following installed on your system:
 
 1. Python 3.x
