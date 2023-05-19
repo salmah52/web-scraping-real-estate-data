@@ -22,4 +22,5 @@ I will be scraping the real estate data from "https://nigeriapropertycentre.com/
 
 
 ## Visualiastion with PowerBI
-## Link -https://app.powerbi.com/view?r=eyJrIjoiOTdkZWU3OWEtOWRkMy00OTYyLWFlZWEtNjFjNGVlNThjZDg5IiwidCI6ImVhM2E1MTY5LWEwZmUtNDAxOC1hNGVhLTg5Y2QxMTlmYWQ4OCJ9
+## LINK -https://app.powerbi.com/view?r=eyJrIjoiY2Q3NzFlNjktNjc2ZS00NDkwLTg0MzYtMmMyZjc2MDRkMjhlIiwidCI6ImVhM2E1MTY5LWEwZmUtNDAxOC1hNGVhLTg5Y2QxMTlmYWQ4OCJ9
+
